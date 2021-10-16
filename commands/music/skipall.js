@@ -3,7 +3,7 @@ module.exports = {
         name: 'skipall',
         aliases: ['skip-all'],
         category: "music",
-        description: 'Skip all songs in queue',
+        description: 'Skip all songs in queue',      
         usage: " ",
         accessableby: "everyone"
     },
