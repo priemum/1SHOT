@@ -25,5 +25,5 @@ module.exports = {
         serverQueue.connection.dispatcher.end();
         return message.channel.send("**Something Went Wrong!**")
       }
-    }
+    }       
 };
